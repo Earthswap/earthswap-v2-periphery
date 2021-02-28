@@ -2,7 +2,7 @@
 
 [![Actions Status](https://github.com/Earthswap/earthswap-v2-periphery/workflows/CI/badge.svg)](https://github.com/Earthswap/earthswap-v2-periphery/actions)
 
-In-depth documentation on Earthswap V2 is available at [earthswap.org](https://earthswap.org/docs).
+In-depth documentation on Earthswap V2 is available at [earthswap.net](https://earthswap.net/docs).
 
 # Local Development
 

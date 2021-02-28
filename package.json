@@ -5,7 +5,7 @@
   "engines": {
     "node": ">=10"
   },
-  "homepage": "https://earthswap.org",
+  "homepage": "https://earthswap.net",
   "repository": {
     "type": "git",
     "url": "https://github.com/Earthswap/earthswap-v2-periphery"
